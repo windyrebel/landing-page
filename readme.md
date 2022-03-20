@@ -1,0 +1,1 @@
+This landing page was created to show what I learned in my beginning lessons for HTML and CSS within the Odin Project. This is a basic landing page created using Flexbox.
